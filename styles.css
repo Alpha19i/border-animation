@@ -25,3 +25,12 @@ html, body{
     stroke-dashoffset: 0;
     stroke-dasharray: 760;
 }
+.text{
+    font-family: 'Roboto Condensed';
+    font-size: 22px;
+    line-height: 32px;
+    letter-spacing: 8px;
+    color: #fff;
+    top: -48px;
+    position: relative;
+}
